@@ -6,7 +6,7 @@ import { Nav } from "react-bootstrap";
 export default function NavBar() {
   return (
     <>
-      <Navbar>
+      <Navbar bg="light">
         <Container>
           <NavbarBrand>Jewelers of Parkland</NavbarBrand>
           <Nav.Link>Home</Nav.Link>
