@@ -8,10 +8,21 @@ function App() {
     <div className="App">
       <NavBar />
 
+      <h2>Lorem Ipsum</h2>
       <div className="mainView">
-        <div>Hello</div>
-        <div>Hello</div>
-      </div>
+
+
+          <div>upcoming photo </div>
+          <div> upcoming photo</div>
+        </div>
+        <h2>About</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor
+          voluptates facere dicta, ipsa itaque ipsam nulla. Nostrum non iste
+          qui, provident explicabo ullam asperiores. Modi, consectetur. Odio
+          sunt quo ducimus.
+        </p>
+
       <Footer />
     </div>
   );

@@ -5,9 +5,7 @@ export default function Footer() {
   return (
     <>
       <div className="footer">
-        <ul>
           <li>{listCategories}</li>
-        </ul>
       </div>
     </>
   );
