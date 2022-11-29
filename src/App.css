@@ -8,3 +8,14 @@
   flex-direction: row;
 
 }
+
+ul{
+  
+}
+
+.footer{
+  display: flex;
+  flex-direction: reverse;
+  padding: 10px;
+  margin: 10px;
+}

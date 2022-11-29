@@ -1,27 +1,18 @@
-import './App.css';
-import NavBar from './components/Navbar';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Footer from './components/Footer';
-
-
+import "./App.css";
+import NavBar from "./components/Navbar";
+import "bootstrap/dist/css/bootstrap.min.css";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <div className="App">
       <NavBar />
 
-      <div className='mainView'>
-      <div>
-        Hello
+      <div className="mainView">
+        <div>Hello</div>
+        <div>Hello</div>
       </div>
-      <div>
-        Hello
-      </div>
-      </div>
-      <div className='footer'>
-        <Footer/>
-      </div>
-
+      <Footer />
     </div>
   );
 }
