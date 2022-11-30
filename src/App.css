@@ -6,8 +6,19 @@
 .mainView{
   display: flex;
   flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+
 
 }
+
+.about{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 
 li{
   display: flex;
@@ -15,5 +26,7 @@ li{
   list-style-type: none;
   padding: auto;
   margin: auto;
+  align-items: center;
+  justify-content: center;
 }
 

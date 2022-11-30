@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <NavBar />
 
-      <h2>Lorem Ipsum</h2>
+      <h2>Jewelers of Parkland</h2>
       <div className="mainView">
 
 
@@ -16,7 +16,7 @@ function App() {
           <div> upcoming photo</div>
         </div>
         <h2>About</h2>
-        <p>
+        <p className="about">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor
           voluptates facere dicta, ipsa itaque ipsam nulla. Nostrum non iste
           qui, provident explicabo ullam asperiores. Modi, consectetur. Odio
