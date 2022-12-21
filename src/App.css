@@ -1,6 +1,20 @@
 .App {
   text-align: center;
   font-family: 'Roboto';
+  margin: 5px;
+  padding: 20px;
+}
+
+parallax {
+  background: url('./components/images/ring.webp');
+  height: 100%;
+  width: 100%;
+  background-color: red;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 .topic {
